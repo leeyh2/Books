@@ -1,0 +1,81 @@
+﻿{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YtqODQAAQBAJ",
+      "etag": "WdXmly0tZNA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YtqODQAAQBAJ",
+      "volumeInfo": {
+        "title": "Pied Piper",
+        "authors": [
+          "Nevil Shute"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2010-08-24",
+        "description": "One of Nevil Shute’s most exciting novels, Pied Piper is the gripping story of one elderly man's daring attempt to rescue a group of children during the Nazi invasion of France. It is the spring of 1940 and John Sidney Howard wants nothing more than to enjoy his fishing holiday in southern France in peace and quiet. However, the Nazi conquest of the Low Countries puts an end to that, and he is asked by friends to take their two children back to England. Crossing France with his young charges seems simple enough at first—until the Germans invade, rendering them fugitives. As Howard struggles to sneak across France, he picks up several more helpless children of various nationalities. They walk for miles in an endless river of refugees, strafed by German planes and hiding in barns at night. By the time Howard and his flock of little ones reach the Channel, his plan of escaping on a fishing boat has become utterly impossible, and in their final confrontation with the invaders, all their lives are at stake.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307474018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307474011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YtqODQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YtqODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YtqODQAAQBAJ&printsec=frontcover&dq=pied_piper_shute+inauthor:shute&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YtqODQAAQBAJ&dq=pied_piper_shute+inauthor:shute&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pied_Piper.html?hl=&id=YtqODQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YtqODQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of Nevil Shute’s most exciting novels, Pied Piper is the gripping story of one elderly man&#39;s daring attempt to rescue a group of children during the Nazi invasion of France."
+      }
+    }
+  ]
+}

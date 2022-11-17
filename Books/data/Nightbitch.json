@@ -1,0 +1,106 @@
+﻿{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fjoEEAAAQBAJ",
+      "etag": "Y9ezTM6pXnE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fjoEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nightbitch",
+        "subtitle": "A Novel",
+        "authors": [
+          "Rachel Yoder"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2021-07-20",
+        "description": "In this blazingly smart and voracious debut novel, an artist turned stay-at-home mom becomes convinced she's turning into a dog. • \"A must-read for anyone who can’t get enough of the ever-blurring line between the psychological and supernatural that Yellowjackets exemplifies.\" —Vulture One day, the mother was a mother, but then one night, she was quite suddenly something else... An ambitious mother puts her art career on hold to stay at home with her newborn son, but the experience does not match her imagination. Two years later, she steps into the bathroom for a break from her toddler's demands, only to discover a dense patch of hair on the back of her neck. In the mirror, her canines suddenly look sharper than she remembers. Her husband, who travels for work five days a week, casually dismisses her fears from faraway hotel rooms. As the mother's symptoms intensify, and her temptation to give in to her new dog impulses peak, she struggles to keep her alter-canine-identity secret. Seeking a cure at the library, she discovers the mysterious academic tome which becomes her bible, A Field Guide to Magical Women: A Mythical Ethnography, and meets a group of mommies involved in a multilevel-marketing scheme who may also be more than what they seem. An outrageously original novel of ideas about art, power, and womanhood wrapped in a satirical fairy tale, Nightbitch will make you want to howl in laughter and recognition. And you should. You should howl as much as you want.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385546829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385546823"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fjoEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fjoEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fjoEEAAAQBAJ&pg=PT216&dq=nightbitch+author%3Dyoder+isbn:9780385546829&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fjoEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fjoEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fjoEEAAAQBAJ&rdid=book-fjoEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Nightbitch-sample-epub.acsm?id=fjoEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fjoEEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Novel Rachel <b>Yoder</b> ... Helen Rubinstein, Sarah Viren, Ariel Lewiton, Kristen Radtke, Zaina Arafat, Lauren Haldeman, and Ingrid <b>Yoder</b>. ... I love you. ABOUT THE <b>AUTHOR</b> RACHEL <b>YODER</b> is a founding editor of Acknowledgments About the <b>Author</b>."
+      }
+    }
+  ]
+}

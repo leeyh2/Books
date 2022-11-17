@@ -1,0 +1,81 @@
+﻿{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mRTCswEACAAJ",
+      "etag": "nEIptGNLn5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mRTCswEACAAJ",
+      "volumeInfo": {
+        "title": "Night",
+        "authors": [
+          "Elie Wiesel"
+        ],
+        "publisher": "Hill and Wang",
+        "publishedDate": "2013-09-10",
+        "description": "A New Translation From The French By Marion Wiesel Born in Sighet, Transylvania, Elie Wiesel was a teenager when he and his family were taken from their home in 1944 and deported to the Auschwitz concentration camp, and then to Buchenwald. Night is the terrifying record of Elie Wiesel's memories of the death of his family, the death of his own innocence, and his despair as a deeply observant Jew confronting the absolute evil of man. This new translation by his wife and most frequent translator, Marion Wiesel, corrects important details and presents the most accurate rendering in English of Elie Wiesel's seminal work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0374534756"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374534752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3892,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mRTCswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mRTCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mRTCswEACAAJ&dq=night+inauthor%3Dwiesel+isbn:9780374534752&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mRTCswEACAAJ&dq=night+inauthor%3Dwiesel+isbn:9780374534752&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Night.html?hl=&id=mRTCswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mRTCswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A New Translation From The French By Marion Wiesel Night is Elie Wiesel&#39;s masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps."
+      }
+    }
+  ]
+}

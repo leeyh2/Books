@@ -1,0 +1,81 @@
+﻿{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZSk_EAAAQBAJ",
+      "etag": "VcgV3E/ezbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZSk_EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Big Panda and Tiny Dragon",
+        "authors": [
+          "James Norbury"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-09-21",
+        "description": "Big Panda and Tiny Dragon embark on a journey through the seasons of the year together. They get lost, as many of us do. But while lost, they discover many beautiful sights they'd never have found had they gone the right way. Told through a series of beautiful drawings and quiet, sometimes silly, conversations, the panda and the dragon explore the thoughts and emotions, hardships and happiness that connect us all. In nature, they learn how to live in the moment, how to be at peace with uncertainty, and how to find the strength to overcome life's obstacles together.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781647225124"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1647225124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZSk_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZSk_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZSk_EAAAQBAJ&pg=PA3&dq=Big_Panda_and_Tiny_Dragon_James+isbn:1647225124&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZSk_EAAAQBAJ&dq=Big_Panda_and_Tiny_Dragon_James+isbn:1647225124&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Big_Panda_and_Tiny_Dragon.html?hl=&id=ZSk_EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZSk_EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "James Norbury. Big Panda and Tiny Dragon James Norbury San Rafael Los Angeles London This book is dedicated to everyone who gets lost."
+      }
+    }
+  ]
+}

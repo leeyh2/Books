@@ -3,12 +3,24 @@
     public class Book
 	{
 		
-		public List<Item> Item { get; set; }
+		public Items[] Items { get; set; }
 
-        public Book(List<Item> item)
+        public Book(Items[] items)
 		{
-			Item = item;
+			Items = items;
 		}
-	}
+
+        public override string ToString()
+        {
+            string bookString = "";
+            bookString += $"{Items[0].VolumeInfo.Title}\n";
+            bookString += $"{string.Join(" & ", Items[0].VolumeInfo.Authors)}\n";
+            bookString += $"\n{Items[0].VolumeInfo.Description}";
+            bookString += $"{Items[0].SelfLink}";
+            bookString += $"{Items[0].Id}\n";
+            return bookString;
+
+        }
+    }
 }
 

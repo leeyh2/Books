@@ -1,10 +1,10 @@
 ﻿using System;
 namespace Books
 {
-	public class Author
+	public class Authors
 	{
 		public string Name;
-		public Author(string name)
+		public Authors(string name)
 		{
 			Name = name;
 		}

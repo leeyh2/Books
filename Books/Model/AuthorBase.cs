@@ -3,8 +3,8 @@ namespace Books
 {
 	public class AuthorBase
 	{
-		public Author Author { get; set; }
-		public AuthorBase(Author author)
+		public Authors Author { get; set; }
+		public AuthorBase(Authors author)
 		{
 			Author = author;
 		}

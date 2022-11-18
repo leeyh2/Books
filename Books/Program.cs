@@ -1,6 +1,8 @@
 ﻿using System.Text.Json;
 using System.Net;
 using System.Collections.Generic;
+using Newtonsoft.Json;
+using JsonSerializer = Newtonsoft.Json.JsonSerializer;
 
 namespace Books
 {
@@ -28,7 +30,8 @@ namespace Books
                 }
 
                 // deserialize (read) JSON and create object(s) based on its information
-                book = JsonSerializer.Deserialize<Book>(jsonString, options);
+                //book = JsonSerializer.Deserialize<Book>(jsonString, options);
+                book = JsonConvert.DeserializeObject<Book>(jsonString);
                 Console.WriteLine(book);
                 books.Add(book);
             }
@@ -41,11 +44,14 @@ namespace Books
             Items[] items = { realItem };
             var myBook = new Book(items);
 
-            string jsonString2 = JsonSerializer.Serialize(myBook, options);
-            using (StreamWriter sw = new StreamWriter(filePath))
-            {
-               sw.WriteLine(jsonString2);
 
+            //string jsonString2 = JsonSerializer.Serialize(myBook, options);
+            JsonSerializer serializer = new JsonSerializer();
+            using (StreamWriter sw = new StreamWriter(filePath,false))
+            using (JsonWriter writer = new JsonTextWriter(sw))
+            {
+                serializer.Serialize(writer, myBook);
+             
             }
 
         }
